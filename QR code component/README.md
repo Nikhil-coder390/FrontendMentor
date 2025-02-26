@@ -23,7 +23,7 @@ This is a solution to the [QR Code Component Challenge on Frontend Mentor](https
 
 ### Links
 
-- **Solution URL:** [Frontend Mentor Solution](https://your-solution-url.com)
+- **Solution URL:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-tailwind-css-bGlbPlUUyU)
 - **Live Site URL:** [Live Demo](https://qrcodecomponent-rho.vercel.app/)
 
 ## My Process
